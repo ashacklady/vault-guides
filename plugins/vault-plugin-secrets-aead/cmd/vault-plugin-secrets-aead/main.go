@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
+	aead "github.com/ashacklady/vault-guides/plugins/vault-plugin-secrets-aead"
 	"github.com/hashicorp/go-hclog"
-	aead "github.com/hashicorp/vault-guides/plugins/vault-plugin-secrets-aead"
 	"github.com/hashicorp/vault/api"
 	"github.com/hashicorp/vault/sdk/plugin"
 )

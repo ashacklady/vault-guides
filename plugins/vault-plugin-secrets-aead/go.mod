@@ -1,4 +1,4 @@
-module github.com/hashicorp/vault-guides/plugins/vault-plugin-secrets-mock
+module github.com/ashacklady/vault-guides/plugins/vault-plugin-secrets-aead
 
 go 1.12
 
